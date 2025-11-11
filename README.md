@@ -34,8 +34,8 @@ A singleton wrapper for spdlog that provides a globally accessible logger.
 ## CConfigFileReader
 A simple utility class to parse key-value pairs from a configuration file.
 
-## uti
-lProvides various helper functions, such as CStrExplode for string splitting and CRefObject for reference counting.
+## util
+Provides various helper functions, such as CStrExplode for string splitting and CRefObject for reference counting.
 
 # Dependencies
 A C++11 (or higher) compliant compiler
